@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a551cb60-ced5-465a-ae27-ebfaac6d12ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home-page/featured-posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/home-page/featured-posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/posts/post-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/posts-grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/posts/posts-grid.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/[slug].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="04-data-fetching-starting-project" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/vudz/code/car-showcase",
+    "last_opened_file_path": "/home/vudz/Downloads/nextjs-course-code/public/images/posts/getting-started4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +63,13 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/posts/getting-started4" />
+      <recent name="$PROJECT_DIR$/public/images/posts/getting-started3" />
+      <recent name="$PROJECT_DIR$/public/images/posts/getting-started2" />
+      <recent name="$PROJECT_DIR$/public/images/posts/getting-started" />
+      <recent name="$PROJECT_DIR$/public/images/posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages/products" />
     </key>
@@ -68,10 +85,24 @@
       <workItem from="1713089300630" duration="3294000" />
       <workItem from="1713138635261" duration="8277000" />
       <workItem from="1713166412244" duration="5859000" />
+      <workItem from="1714149044239" duration="6637000" />
+      <workItem from="1714381104431" duration="1200000" />
+      <workItem from="1714461029134" duration="7714000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
