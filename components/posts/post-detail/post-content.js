@@ -1,6 +1,7 @@
 import React from 'react';
 import classes from './post-content.module.css'
 import PostHeader from "./post-header";
+import ReactMarkdown from "react-markdown"
 
 const DUMMY_POSTS = {
     slug: "getting-started",
@@ -15,7 +16,7 @@ function PostContent(props) {
     return (
         <article className={classes.content}>
             <PostHeader title={DUMMY_POSTS.title} image={imagePath} />
-            {DUMMY_POSTS.content}
+            <ReactMarkdown>{DUMMY_POSTS.content}</ReactMarkdown>
         </article>
     );
 }

@@ -6,12 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a551cb60-ced5-465a-ae27-ebfaac6d12ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home-page/featured-posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/home-page/featured-posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/post-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/posts/post-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/posts-grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/posts/posts-grid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/posts/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/[slug].js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-content.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/posts/post-detail/post-content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "12.22.9",
+    "javascript.nodejs.core.library.typings.version": "12.20.55",
     "last_opened_file_path": "/home/vudz/Downloads/nextjs-course-code/public/images/posts/getting-started4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -88,6 +87,7 @@
       <workItem from="1714149044239" duration="6637000" />
       <workItem from="1714381104431" duration="1200000" />
       <workItem from="1714461029134" duration="7714000" />
+      <workItem from="1714549131490" duration="6738000" />
     </task>
     <servers />
   </component>
