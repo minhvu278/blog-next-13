@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a551cb60-ced5-465a-ae27-ebfaac6d12ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/posts/getting-started/nextjs-file-based-routing.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home-page/featured-posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/home-page/featured-posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/post-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/posts/post-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/posts/posts-grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/posts/posts-grid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/posts/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/[slug].js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/posts/post-detail/post-content.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/posts/post-detail/post-content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/getting-started.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/getting-started.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +47,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/vudz/Downloads/nextjs-course-code/public/images/posts/getting-started4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;12.22.9&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;12.20.55&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vudz/Downloads/nextjs-course-code/public/images/posts/getting-started4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/opt/webstorm/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images/posts/getting-started4" />
@@ -71,6 +73,7 @@
       <recent name="$PROJECT_DIR$/public/images/posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/posts/getting-started" />
       <recent name="$PROJECT_DIR$/pages/products" />
     </key>
   </component>
@@ -88,6 +91,9 @@
       <workItem from="1714149044239" duration="6637000" />
       <workItem from="1714381104431" duration="1200000" />
       <workItem from="1714461029134" duration="7714000" />
+      <workItem from="1714549131490" duration="6738000" />
+      <workItem from="1714568442684" duration="11403000" />
+      <workItem from="1714625712640" duration="2596000" />
     </task>
     <servers />
   </component>
